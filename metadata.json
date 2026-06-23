@@ -1,0 +1,6 @@
+{
+  "name": "HABSOS Ingestion Workbench",
+  "description": "Pre-flight control panel and data quality gatekeeper for HABSOS ingestion. Shift intelligence left with local schema normalization, coordinate parsing, 12-level validation, and Oracle verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
